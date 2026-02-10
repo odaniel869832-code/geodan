@@ -1,2 +1,4 @@
-# ignore all.htm files
+# ignore all.txt files
+*.txt
+
 *.png
